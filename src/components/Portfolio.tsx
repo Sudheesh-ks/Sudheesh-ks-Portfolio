@@ -743,7 +743,7 @@ const HeroSection: React.FC = () => {
         <div className="profile-card">
           <div className="animated-border"></div>
           <div className="profile-img">
-            <img src="./Profile_img.png" alt="profile_image" />
+            <img src="./Profile_img.jpg" alt="profile_image" />
           </div>
         </div>
         <div className="hero-text">
